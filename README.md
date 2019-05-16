@@ -6,3 +6,5 @@ Thành viên:
 	Tô Bá Minh Đức
 	Nguyễn Duy Tùng
 	Phạm Quang Anh
+/nĐề tài: Quản lý Doanh nghiệp bằng mô hình 5S
+/nĐể chạy project: hãy import file qldn.sql vào MySQL, sửa file env.txt thành .env (giữ nguyên vị trí), chạy composer install, php artisan serve
